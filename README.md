@@ -16,3 +16,13 @@ For additional data verification:\
 https://ssd.jpl.nasa.gov/horizons/app.html#
 
 https://ssd.jpl.nasa.gov/planets/approx_pos.html
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/dklobusek/SolarSystemProject/blob/main/img1.jpg" alt="Thumbnail 1" width="300"/></td>
+    <td><img src="https://github.com/dklobusek/SolarSystemProject/blob/main/img2.jpg" alt="Thumbnail 2" width="300"/></td>
+    <td><img src="https://github.com/dklobusek/SolarSystemProject/blob/main/img3.jpg" alt="Thumbnail 3" width="300"/></td>
+  </tr>
+</table>
