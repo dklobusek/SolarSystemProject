@@ -1,21 +1,18 @@
 # SolarSystemProject
 
-Simulation of all planets in Solar System and Pluto\
-Main features:
+This simulation offers an accurate and visually appealing representation of all the planets in the Solar System, including Pluto. The simulation is designed with the following key features:
 
-a) Starts always at current date (can change it in time function)\
-b) Simulation uses kepler equations and data from JPL/Horizon system (starting point J2000) to simulate actual position of the planet with great accuracy (tests show accuracy within few seconds of starting position - compared to Horizon System)\
-c) Simulation is valid from 3000 BC to 3000 AD\
-d) Default speed is set to 1 second = 1 earth day\
-e) XYZ axis are equal, so object inclinations you see on the plot is real life representation\
-f) Asteroid Belt and Kuiper Belt are added for pleasing view\
-g) The program has the ability to add more objects with ecliptic orbits, just need to edit .csv file
-\
-\
-For additional data verification:\
-https://ssd.jpl.nasa.gov/horizons/app.html#
+- **Real-Time Start**: The simulation begins with the planets positioned according to the current date. Users can adjust the starting date within the time function as needed.
+- **Precision with Kepler's Equations**: The planetary positions are computed using Kepler's equations and data from NASA's JPL Horizons system, starting from the J2000 epoch. Tests indicate that the simulation maintains accuracy within a few seconds when compared to the Horizon System.
+- **Broad Temporal Range**: The simulation is valid over a wide range, from 3000 BC to 3000 AD.
+- **Realistic Time Scaling**: The default time progression is set at 1 second = 1 Earth day, providing a clear view of the planets' motions.
+- **True-to-Life Representation**: The XYZ axes are scaled equally, ensuring that the inclinations of planetary orbits are represented accurately.
+- **Enhanced Visuals**: Both the Asteroid Belt and Kuiper Belt are included to enhance the visual appeal of the simulation.
+- **Customizable Objects**: Users can easily add new celestial objects with ecliptic orbits by simply editing the accompanying .csv file.
 
-https://ssd.jpl.nasa.gov/planets/approx_pos.html
+For further verification and additional data, refer to the following resources:
+- [NASA JPL Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#)
+- [NASA Planetary Data](https://ssd.jpl.nasa.gov/planets/approx_pos.html)
 
 ## Screenshots
 
@@ -26,3 +23,16 @@ https://ssd.jpl.nasa.gov/planets/approx_pos.html
     <td><img src="https://github.com/dklobusek/SolarSystemProject/blob/main/img3.jpg" alt="Thumbnail 3" width="300"/></td>
   </tr>
 </table>
+
+## Download Animation
+
+<a href="https://github.com/dklobusek/SolarSystemProject/blob/main/solsystemanim.mp4" download>
+    <button>Download Solar System Animation</button>
+</a>
+
+## View Code
+
+<a href="https://github.com/dklobusek/SolarSystemProject/blob/main/solsystem.py" target="_blank">
+    <button>View Code</button>
+</a>
+
